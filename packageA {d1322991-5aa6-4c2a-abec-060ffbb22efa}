@@ -1,0 +1,15 @@
+2 Module {d1322991-5aa6-4c2a-abec-060ffbb22efa} {7c24f8a1-7426-4eb7-96e1-23f27182d192}
+	_ext_Position_x Integer {6caca245-bbb9-46cf-9960-a773721e3302} {d1322991-5aa6-4c2a-abec-060ffbb22efa}. I_0
+	_ext_Position_y Integer {23c04a47-ff37-40b1-b706-2734484fe2ff} {d1322991-5aa6-4c2a-abec-060ffbb22efa}. I_2
+	annotations StatementItemList {9db3e943-cba9-4cb4-91e9-b48d1404f3d7} {d1322991-5aa6-4c2a-abec-060ffbb22efa}
+	classes TypedListOfClass {cf492392-8a11-408b-95b1-cefb9dd1aaa3} {d1322991-5aa6-4c2a-abec-060ffbb22efa}
+		0 persistencenewunit {ba594d49-bbc6-4be2-9781-b01f3c2e7266} {cf492392-8a11-408b-95b1-cefb9dd1aaa3}. S_packageA/classA2 {ba594d49-bbc6-4be2-9781-b01f3c2e7266}
+		1 persistencenewunit {a44a03d6-cec2-48ad-ade7-790b360896ce} {cf492392-8a11-408b-95b1-cefb9dd1aaa3}. S_packageA/classA1 {a44a03d6-cec2-48ad-ade7-790b360896ce}
+	fields TypedListOfField {76461c84-5c48-4738-b4a0-e4f9d7ed9952} {d1322991-5aa6-4c2a-abec-060ffbb22efa}
+	libraries TypedListOfUsedLibrary {1d6041af-3780-473a-9ec5-bba234dcebd7} {d1322991-5aa6-4c2a-abec-060ffbb22efa}
+	methods TypedListOfMethod {15669eda-9b44-4d35-a42b-ce72045f2090} {d1322991-5aa6-4c2a-abec-060ffbb22efa}
+	modKind Integer {9b633c41-c380-4252-bd7d-d1a0e9060d1c} {d1322991-5aa6-4c2a-abec-060ffbb22efa}. I_0
+	modifiers Modifier {c8b5cc9b-cf44-41a0-806d-502edc3e5017} {d1322991-5aa6-4c2a-abec-060ffbb22efa}. I_0
+	modules TypedListOfModule {0c51fe78-a654-430c-83ea-b1503264a038} {d1322991-5aa6-4c2a-abec-060ffbb22efa}
+	name NameText {23d93cfe-d052-4ee0-a2d3-03ad5505192d} {d1322991-5aa6-4c2a-abec-060ffbb22efa}. S_packageA
+	subDeclarations TypedListOfDeclaration {f6b6c49c-163d-4580-a2f2-48b06a29dcca} {d1322991-5aa6-4c2a-abec-060ffbb22efa}

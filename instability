@@ -1,0 +1,36 @@
+instability Project {581fc144-6b99-49bd-9f02-7e7ec27ea210} {00000000-0000-0000-0000-000000000000}
+	annotations StatementItemList {4251cc7d-bd4d-4c95-bfd7-7c3229eb5990} {581fc144-6b99-49bd-9f02-7e7ec27ea210}
+	classes TypedListOfClass {e098c342-3efe-4db1-b598-a47d23a6d7d4} {581fc144-6b99-49bd-9f02-7e7ec27ea210}
+	fields TypedListOfField {f8d87c52-21fb-4b41-95db-cc4e9a3b6e8e} {581fc144-6b99-49bd-9f02-7e7ec27ea210}
+	implicitBaseType ReferenceExpression {72ef15f8-d576-4bd4-891e-1e751bbaa0e1} {581fc144-6b99-49bd-9f02-7e7ec27ea210}
+		memKind Integer {2289ddee-bb1b-4562-9641-3941bf3c3003} {72ef15f8-d576-4bd4-891e-1e751bbaa0e1}. I_0
+		ref OOReference {afe15715-fe52-4ba7-99f9-491bede567bc} {72ef15f8-d576-4bd4-891e-1e751bbaa0e1}. S_____NULL____:Object
+		typeArguments TypedListOfExpression {a230b1a6-dcc1-4352-b3db-e82b519d3323} {72ef15f8-d576-4bd4-891e-1e751bbaa0e1}
+	implicitEnumType ReferenceExpression {31c99205-5bcb-4f9b-952c-24eaf5c5d0ab} {581fc144-6b99-49bd-9f02-7e7ec27ea210}
+		memKind Integer {41b966ad-4668-4d1e-8dba-87c52fdad2a4} {31c99205-5bcb-4f9b-952c-24eaf5c5d0ab}. I_0
+		ref OOReference {b8fb4688-fcfc-463a-b9f4-560b78e20a27} {31c99205-5bcb-4f9b-952c-24eaf5c5d0ab}. S_____NULL____:Enum
+		typeArguments TypedListOfExpression {edc8faa1-dffe-437e-985f-71c5eb5a3508} {31c99205-5bcb-4f9b-952c-24eaf5c5d0ab}
+	libraries TypedListOfUsedLibrary {0d5556ea-e8a9-4e49-ba37-a5b9c6f0e32c} {581fc144-6b99-49bd-9f02-7e7ec27ea210}
+	methods TypedListOfMethod {2b3d52e3-60ef-416d-ba57-b1ce84954032} {581fc144-6b99-49bd-9f02-7e7ec27ea210}
+	modifiers Modifier {ffc01b35-9da1-49de-a7cb-17d227d63fda} {581fc144-6b99-49bd-9f02-7e7ec27ea210}. I_0
+	modules TypedListOfModule {7c24f8a1-7426-4eb7-96e1-23f27182d192} {581fc144-6b99-49bd-9f02-7e7ec27ea210}
+		0 persistencenewunit {59b852cd-c60e-4e6f-9539-fa124157ddcd} {7c24f8a1-7426-4eb7-96e1-23f27182d192}. S_packageB {59b852cd-c60e-4e6f-9539-fa124157ddcd}
+		1 persistencenewunit {ff750237-cfd0-42d2-96d7-570f1e8afadd} {7c24f8a1-7426-4eb7-96e1-23f27182d192}. S_packageC {ff750237-cfd0-42d2-96d7-570f1e8afadd}
+		2 persistencenewunit {d1322991-5aa6-4c2a-abec-060ffbb22efa} {7c24f8a1-7426-4eb7-96e1-23f27182d192}. S_packageA {d1322991-5aa6-4c2a-abec-060ffbb22efa}
+	name NameText {23c3f7ef-219e-49eb-8eec-988b52f2e05d} {581fc144-6b99-49bd-9f02-7e7ec27ea210}. S_instability
+	projects TypedListOfProject {914329f4-5cfa-43a0-8982-608a94dfb732} {581fc144-6b99-49bd-9f02-7e7ec27ea210}
+	subDeclarations TypedListOfDeclaration {535d47bb-401b-4f10-9134-90ec3ce5abd7} {581fc144-6b99-49bd-9f02-7e7ec27ea210}
+		0 NameImport {b26f7908-032b-4f8f-92a7-cff95f78d737} {535d47bb-401b-4f10-9134-90ec3ce5abd7}
+			annotations StatementItemList {391d8b79-2655-4640-8177-2e279be2f379} {b26f7908-032b-4f8f-92a7-cff95f78d737}
+			importAll Boolean {8ccc71ba-f66d-416c-9c08-df298facb0b6} {b26f7908-032b-4f8f-92a7-cff95f78d737}. I_1
+			importedName ReferenceExpression {c8229025-8e26-4dec-8cb6-5bb0affa09bc} {b26f7908-032b-4f8f-92a7-cff95f78d737}
+				memKind Integer {f61b367c-3326-4be2-8a3a-2d910887976d} {c8229025-8e26-4dec-8cb6-5bb0affa09bc}. I_0
+				prefix ReferenceExpression {5b720796-dd32-49cf-bea8-f1f4b2abbd80} {c8229025-8e26-4dec-8cb6-5bb0affa09bc}
+					memKind Integer {c2d513ee-ba5a-4e71-b809-a28ae34f57d3} {5b720796-dd32-49cf-bea8-f1f4b2abbd80}. I_0
+					ref OOReference {6bfbb756-2ce2-488d-99dd-7b8d7d8a8c3a} {5b720796-dd32-49cf-bea8-f1f4b2abbd80}. S_____NULL____:java
+					typeArguments TypedListOfExpression {e69b118e-d7d3-4ecf-b3f6-568d4650f8c5} {5b720796-dd32-49cf-bea8-f1f4b2abbd80}
+				ref OOReference {bf65e97f-e17d-4270-a659-f610c3d36569} {c8229025-8e26-4dec-8cb6-5bb0affa09bc}. S_____NULL____:lang
+				typeArguments TypedListOfExpression {da029c16-6009-49fe-9fee-b8f49892643a} {c8229025-8e26-4dec-8cb6-5bb0affa09bc}
+			modifiers Modifier {846ffc12-969b-4158-8548-1b0c62ed8771} {b26f7908-032b-4f8f-92a7-cff95f78d737}. I_0
+			name NameText {811f7394-0bed-4fe1-9a36-407189240d09} {b26f7908-032b-4f8f-92a7-cff95f78d737}. S_
+			subDeclarations TypedListOfDeclaration {8ea7e0a7-1631-43b2-9d26-ca0f2a90effe} {b26f7908-032b-4f8f-92a7-cff95f78d737}
